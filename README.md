@@ -5,17 +5,17 @@
   e conforme as especificações. 
 </p>
 
-<h3>Sumário</h3>
+## Sumário
 <ul>
   <li><a href="#telas">Telas</a></li>
   <li><a href="#tecnologias">Tecnologias utilizadas</a></li>
-  <li><a href="#Getting-Started">Getting Started</a></li>
-  <li><a href="#Sobre">Sobre</a></li>
-  <li><a href="#participante">Participantes</a></li>
+  <li><a href="#getting-started">Getting Started</a></li>
+  <li><a href="#sobre">Sobre</a></li>
+  <li><a href="#participantes">Participantes</a></li>
 </ul>
 </br>
 
-## Telas aaaaaaaaaaaaaaaaaa
+## Telas
 <table>
 <tr>
   <th>Listagem de usuário</th>
