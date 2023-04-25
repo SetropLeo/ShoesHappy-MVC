@@ -92,15 +92,12 @@
 </pre>
 <p> Após isso, é só acessar o seguinte link:</p>
 <code><a href="http://localhost:8080/ShoesHappy/">http://localhost:8080/ShoesHappy/</a></code>
-
 <br><br>
 
 
 ## Sobre
 
 Aplicação Web desenvolvida com Java e MySQL. O sistema gira em torno de um CRUD simples onde é possível realizar adições, edições e exclusões de usuários em um sistema.
-
-
 <br><br>
 
 
