@@ -12,6 +12,7 @@
   <li><a href="#getting-started">Getting Started</a></li>
   <li><a href="#sobre">Sobre</a></li>
   <li><a href="#participantes">Participantes</a></li>
+  <li><a href="#licença">Licença</a></li>
 </ul>
 </br>
 
@@ -106,4 +107,10 @@ Aplicação Web desenvolvida com Java e MySQL. O sistema gira em torno de um CRU
 ## Participantes
 
 - [Leonardo Lawisch Portes](https://github.com/SetropLeo)
+<br><br>
+
+
+## Licença
+
+- Licença MIT
 <br><br>
