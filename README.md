@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td><img src="./src/main/base/user-list.jpg"/></td>
-    <td><img src="./src/main/base/edit-user.jpg"/></td>
+    <td><img src="./src/main/base/add-user.jpg"/></td>
     <td><img src="./src/main/base/edit-user.jpg"/></td>
   </tr>
 </table>
